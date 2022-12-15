@@ -1,16 +1,4 @@
-# Autograding Example: Python
-This example project is written in Python, and tested with pytest.
-
-### The assignment
-The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
-
-### Setup command
-`sudo -H pip3 install pytest`
-
-### Run command
-`pytest`
-
-### Notes
-- pip's install path is not included in the PATH var by default, so without installing via `sudo -H`, pytest would be unaccessible.
-
-from: https://github.com/education/autograding-example-python/blob/master/README.md
+# Assignment:
+1. Navigate to the file `helloworld.py`
+2. Fix line 3 :  `prinq("hello world")` and make sure you save your changes!
+3. Test your code by opening the terminal, making sure it's pointed at the right files and type in `pytest`
